@@ -21,6 +21,7 @@ public class GoRestSteps {
 
         return SerenityRest.given().log().all()
                 .header("Content-Type", "application/json")
+                .header("Authorization", "Bearer 75c987adac5bd1820e58fb137137e2474501428068d1ec0dd68ae05bcff564c9")
                 .body(goRestPojo)
                 .when()
                 .post(EndPoints.CREATE_SINGLE_USERS)

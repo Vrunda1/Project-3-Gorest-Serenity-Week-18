@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="1" failures="0" name="in.co.gorest.gorestCURD.UsersCURDTestWithSteps" skipped="0" tests="1" time="0.08" timestamp="2022-06-06T23:00:23.447+01:00[Europe/London]"><testcase classname="in.co.gorest.gorestCURD.UsersCURDTestWithSteps" name="This will create a new user"><error type="java.lang.NullPointerException"/><system-err>null&#13;
+in.co.gorest.gorestCURD.UsersCURDTestWithSteps.test001(UsersCURDTestWithSteps.java:38)&#13;
+</system-err></testcase></testsuite>
